@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Volcan](img/nube-1.png)
+![Mountain](img/color-mountain.jpg)
