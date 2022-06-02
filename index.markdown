@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Mountain](img/color-mountain.jpg)
+![Mountain](img/color-mountain-cropped.jpg)
